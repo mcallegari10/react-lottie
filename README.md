@@ -2,6 +2,8 @@
 
 [![npm version](https://badge.fury.io/js/react-lottie.svg)](http://badge.fury.io/js/react-lottie)
 
+**IMPORTANT: THIS PACKAGE IS ONLY TEMPORARY TO SOLVE OUTDATED REQUIRED ENGINE IN THE ORIGINAL PACKAGE. PLEASE INSTALL THE ORIGINAL AT ALL TIMES. WHEN A SOLUTION IS PROVIDED, THIS WILL BE TAKEN DOWN.**
+
 ## Demo
 https://chenqingspring.github.io/react-lottie
 
